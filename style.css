@@ -1,0 +1,96 @@
+* {
+    margin-left : 15px;
+    margin-right: 15px;
+    padding : 0;
+    background-color: #D7E3EC;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* ------------- */
+#heading {
+    margin-top : 25px;
+    font-size: 2.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* ---------------- */
+#home {
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-top : 50px;
+    height :80px;
+    background-color: #2586D5;
+    text-align: center;
+    font-size: 2rem;  
+}
+#insidehome {
+    color : white;
+    background-color: #2586D5;
+    text-decoration-line: none;
+}
+/* --------------------- */
+#firstblog {
+    background-color: #CFD9E1;
+    padding-top: 5px;
+    height : 875px;
+    border-radius: 20px;
+}
+#firstblog h2 {
+    background-color: #CFD9E1;
+    font-size: 2.5rem;
+}
+#firstblog p {
+    background-color: #CFD9E1;
+    font-size: 1.5rem;
+}
+#firstblog h3 {
+    background-color: #CFD9E1;
+    font-size: 1.75rem;
+}
+#firstblog ul,li {
+    background-color: #CFD9E1;
+    margin-left: 50px;
+    font-size: 1.5rem;;
+}
+#firstblog img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+/* -------------------- */
+#secondblog {
+    background-color: #CFD9E1;
+    margin-top: 20px;
+    padding-top: 5px;
+    height : 745px;
+    border-radius: 20px;
+}
+#secondblog h2 {
+    background-color: #CFD9E1;
+    font-size: 2.5rem;
+}
+#secondblog p {
+    background-color: #CFD9E1;
+    font-size: 1.5rem;
+}
+#secondblog ol,ul,li {
+    background-color: #CFD9E1;
+    margin-left: 50px;
+    font-size: 1.5rem;
+}
+/* --------------- */
+#rights {
+    text-align: center;
+    font-size: 1.5rem;
+    background-color: #161A1D;
+    border-top-left-radius: 20px;
+}
+#rights p {
+    color:aliceblue;
+    background-color: #161A1D;
+    height: 80px;
+    padding-top: 40px;
+}
